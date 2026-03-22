@@ -127,9 +127,8 @@ graph.add_conditional_edges(
     },
 )
 
-
 app=graph.compile()
-app
+
 
 
 def run_document_agent():
